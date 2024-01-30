@@ -14,7 +14,7 @@ namespace database
 {
     public partial class Form1 : Form
     {
-        private string connectionString = "Host=localhost;Port=5432;Database=dbproje;Username=postgres;Password=Yunus.2002";
+        private string connectionString = "Host=localhost;Port=5432;Database=dbproje;Username=postgres;Password=2002";
         public Form1()
         {
             InitializeComponent();
